@@ -1,0 +1,9 @@
+[submodule "insight"]
+	path = insight
+	url = https://github.com/Sysmic-Robotics/insight.git
+[submodule "strategy"]
+	path = strategy
+	url = https://github.com/Sysmic-Robotics/strategy.git
+[submodule "engine"]
+	path = engine
+	url = https://github.com/Sysmic-Robotics/engine
