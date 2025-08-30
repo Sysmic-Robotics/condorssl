@@ -21,3 +21,15 @@
 <p align="center">
   It integrates three core components: <strong>Insight</strong> (Frontend UI), <strong>Engine</strong> (Low-level control), and <strong>Strategy</strong> (AI decision-making).
 </p>
+
+
+# Validation
+
+We are happy to share that **CondorSSL** was successfully validated during the **RoboCup 2025 in Salvador** 🎉.  
+And the best part: it didn’t crash... haha 🚀⚽
+
+<p align="center">
+  <a href="https://youtu.be/rncd2WXzMhY?feature=shared" target="_blank">
+    <img src="https://img.youtube.com/vi/rncd2WXzMhY/0.jpg" alt="CondorSSL RoboCup 2025 Validation" width="600"/>
+  </a>
+</p>
